@@ -16,19 +16,19 @@ body:
     id: link
     attributes:
       label: 链接
-      placeholder: eg. https://www.github.com
+      placeholder: 如：https://www.github.com
     validations:
       required: true
   - type: input
     id: keyword
     attributes:
       label: 关键词
-      placeholder: eg. Vue React
+      placeholder: 如：Vue React
     validations:
       required: true
   - type: textarea
     id: other
     attributes:
-      label: 其他
+      label: 备注
     validations:
       required: false
