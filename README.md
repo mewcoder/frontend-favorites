@@ -10,7 +10,8 @@
 
 本周刊基于issue管理，欢迎投稿[提交 issue🎯](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
 
-- [【001期】](https://github.com/fe-focus/moyu-weekly/milestone/1?closed=1)
+#### 最新
+- [【001期】-20220626](https://github.com/fe-focus/moyu-weekly/milestone/1?closed=1)
 
 ---
 
