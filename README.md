@@ -16,7 +16,7 @@
 
 ---
 
-> 其他前端周刊推荐
+> 前端周刊推荐
 > - [每日时报](https://wubaiqing.github.io/zaobao)
 > - [前端食堂周刊](https://github.com/Geekhyt/weekly)
 > - [奇舞周刊](https://weekly.75.team/)
