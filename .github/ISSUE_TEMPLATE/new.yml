@@ -1,6 +1,6 @@
 name:  "投稿模板"
 title: "🤖投稿标题"
-description: "🤖摸鱼周刊投稿模板"
+description: "摸鱼周刊投稿模板"
 body:
   - type: markdown
     attributes:
