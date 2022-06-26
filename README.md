@@ -8,7 +8,7 @@
  - 通过日积月累的收集和标签化的管理，将碎片化的信息沉淀为一个可检索的前端知识/工具库
 
 
-本周刊基于issues管理，欢迎投稿[提交 issue🎯](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
+[本周刊（欢迎Star⭐）](https://github.com/fe-focus/moyu-weekly)基于Github Issues管理，欢迎投稿[提交 issue🎯](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
 > - 本周刊工作流：通过issues进行收集内容，每周归档优质内容到一个milestone里发布周刊，并close对应的issues
 > - 注意：搜索历史内容时，要选择[closed🔍](https://github.com/fe-focus/moyu-weekly/issues?q=is%3Aissue+is%3Aclosed)
 
