@@ -5,11 +5,11 @@ body:
   - type: markdown
     attributes:
       value: 
-        请修改投稿标题和描述，在右侧选择对应的label
+        请修改投稿标题，在右侧选择对应的label
   - type: textarea
     id: description
     attributes:
-      label: 描述
+      label: 内容
     validations:
       required: true
   - type: input
