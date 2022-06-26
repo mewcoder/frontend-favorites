@@ -1,11 +1,11 @@
 name:  "投稿模板"
-title: "投稿标题"
-description: "摸鱼周刊投稿模板"
+title: "🤖投稿标题"
+description: "🤖摸鱼周刊投稿模板"
 body:
   - type: markdown
     attributes:
       value: 
-        请修改投稿标题，在右侧选择对应的label
+        请修改投稿标题和描述，在右侧选择对应的label
   - type: textarea
     id: description
     attributes:
