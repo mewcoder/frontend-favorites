@@ -7,7 +7,7 @@
  - 通过日积月累的收集和标签化的管理，将碎片化的信息积累成一个可检索的前端知识/工具库
  - 好的内容应该被发现，本周刊并不强调内容的时效性，但是内容必须要优质/有用，
 
-🎯本周刊基于issue管理，欢迎投稿[提交 issue](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
+本周刊基于issue管理，欢迎投稿[提交 issue🎯](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
 
 
 
