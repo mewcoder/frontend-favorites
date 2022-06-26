@@ -9,7 +9,7 @@
 
 
 本周刊基于issue管理，欢迎投稿[提交 issue🎯](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
-
+> 本周刊工作流：通过issue进行收集内容，每周归档几条内容到一个milestone里，并close对应的issue。（注意搜索历史内容时，要选择closed）
 #### 最新
 - [【001期】- 20220626](https://github.com/fe-focus/moyu-weekly/milestone/1?closed=1)
 
