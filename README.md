@@ -14,7 +14,8 @@
 
 #### 往期
 - [【001期】- 20220626](https://github.com/fe-focus/moyu-weekly/milestone/1?closed=1)
-
+- [【002期】- 20220703](https://github.com/fe-focus/moyu-weekly/milestone/2?closed=1)
+- 
 ---
 
 > 前端周刊推荐
