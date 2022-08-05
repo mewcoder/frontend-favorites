@@ -4,7 +4,7 @@
  - 通过日积月累的收集和标签化的管理，将碎片化的信息沉淀为一个可检索的前端知识/工具库
 
 
-[本周刊](https://github.com/fe-focus/moyu-weekly)基于Github Issues管理，欢迎投稿[提交 issue🎯](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
+[本周刊](https://github.com/fe-focus/moyu-weekly)基于Github Issues管理，欢迎投稿[提交 issue 🎯](https://github.com/fe-focus/moyu-weekly/issues/new/choose) 
 > 工作流：通过issues进行收集内容，每期归档几条内容到一个 milestone 里发布周刊。
 
 #### [往期查看🗂](https://github.com/mewcoder/moyu-weekly/milestones)
